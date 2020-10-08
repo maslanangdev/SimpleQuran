@@ -1,5 +1,5 @@
 # SimpleQuran
-A simple digital Mushaf that written in Python
+A simple digital Mushaf operator that written in Python
 
 you need to provide your own mushaf sheet for now
 
